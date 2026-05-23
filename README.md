@@ -12,4 +12,5 @@ wine-quality-analysis/
 ├── README.md
 └── requirements.txt
 
-Note: The original dataset ZIP file (`wine+quality.zip`) has already been uploaded to this repository. The notebooks also contain saved outputs, so the results can be viewed directly on GitHub without rerunning the code. If users want to rerun the notebooks, the ZIP file does not need to be manually extracted because the notebooks unzip it automatically.
+The dataset ZIP file is already included in this repository, and the notebooks contain saved outputs,
+so the results can be viewed directly on GitHub without manually extracting the ZIP file or rerunning the code.
